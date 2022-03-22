@@ -1,5 +1,5 @@
 <img src="https://github.com/TazzOrchi/TazzOrchi/blob/main/download.png">
-### <div align="center">I'm a Data Analyst in NYC 🗽working in Philanthropy </div>  
+<div align="center">I'm a Data Analyst in NYC 🗽working in Philanthropy </div>  
   
 
 -  💼 I’m currently working on setting up my Github  
