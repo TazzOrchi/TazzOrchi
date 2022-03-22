@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/TazzOrchi/TazzOrchi/blob/main/download.png)
+<img src="https://github.com/TazzOrchi/TazzOrchi/blob/main/download.png">
 ### Hi there 👋
 
 <!--
