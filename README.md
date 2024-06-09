@@ -1,12 +1,8 @@
 <img src="https://github.com/TazzOrchi/TazzOrchi/blob/main/download.png">
-<div align="center">I'm a Data Analyst in NYC 🗽working in Philanthropy </div>  
+<div align="center">I'm a Data Scientist from NYC 🗽 </div>  
   
 
 -  💼 I’m currently working on setting up my Github  
-  
-
-- 🧠 I’m currently learning Python and Machine Learning   
-  
 
 - ❓ Reach out to talk about addressing data gaps  
   
